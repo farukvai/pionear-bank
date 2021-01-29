@@ -1,0 +1,31 @@
+body{
+    padding:100px;
+}
+.submit-area{
+ margin-top: 50px;
+ padding:40px;
+ box-shadow:5px 5px 10px gray;   
+ border-radius: 10px;
+}
+.submit-area input,
+.submit-area button{
+    margin-top:10px;
+}
+#transection-area{
+    display:none;
+}
+.status{
+    margin:0 30px;
+    padding:30px;
+    color:#fff;
+    border-radius: 10px;;
+}
+.diposit{
+    background:#8e44ad;
+}
+.withdrw{
+    background:salmon;
+}
+.balamce{
+    background: orange;
+}
